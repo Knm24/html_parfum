@@ -1,0 +1,50 @@
+@media (min-width: 376px) {
+  
+
+
+    body {
+        display: flex;
+        justify-content: center; 
+        align-items: center; 
+        height: 100vh; 
+        margin: 0;
+    }
+    
+    .card {
+        width: 600px; 
+    }
+    
+    .product-image {
+        width: 300px; 
+        height: 450px; 
+        background-image: url('design/images/image-product-desktop.jpg'); 
+        background-size: cover; 
+    }
+    
+    .card-content {
+
+        background-color: white;
+    }
+    
+    h2 {
+    
+    }
+    
+    h1 {
+    
+    }
+    
+    .product-description {
+    
+    }
+    
+    
+    .price {
+    
+    }
+    
+    .btn {
+
+    }
+
+}

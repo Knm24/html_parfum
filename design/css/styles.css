@@ -1,0 +1,69 @@
+body {
+    background-color: #f2eae2;
+    color: hsl(226, 11%, 55%);
+}
+
+.card {
+    display: flex; 
+    justify-content: flex-start;
+
+}
+.column {
+   
+
+}
+.product-image {
+
+}
+
+.card-content {
+    padding: 0rem 0;
+}
+
+h2 {
+    color: hsl(226, 11%, 55%);
+    font-size: 1.2rem;
+   
+}
+
+h1 {
+    color: hsl(214, 23%, 14%);
+    font-size: 2.2rem;
+}
+
+.product-description {
+    padding: 0.5rem 0 1.5rem 0;
+}
+
+
+.price {
+    color: hsl(157, 35%, 38%);
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.btn {    
+    font-size: 1rem; 
+    color: white;
+    width: 10rem;
+    padding: 10px 20px;
+    background-color: hsl(157, 35%, 38%);
+    border-radius: 5px;  
+    text-decoration: none;
+    text-align: center;
+    margin: 1rem 0;
+}
+.btn img {
+    padding: 0 0.5rem;
+}
+.btn a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.old {
+    font-weight: normal;
+    font-size: 0.6rem;
+    text-decoration: line-through;
+}
